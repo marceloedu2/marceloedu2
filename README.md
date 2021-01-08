@@ -9,6 +9,8 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <img align="center" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 </div>
 
+!Marcelo Araujo stats](https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=radical)
+
 <h6>🚀 Technologies and Tools ⚙</h6>
 <div class="row">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
