@@ -14,3 +14,11 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marceloedu2&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marceloedu2&repo=convoychat" />
+</a>
+
