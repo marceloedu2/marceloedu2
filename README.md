@@ -8,6 +8,6 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <div>
 <img align="center" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 </div>
-###
+## Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
