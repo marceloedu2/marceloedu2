@@ -12,3 +12,18 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
+<h6>🚀 Technologies and Tools ⚙</h6>
+
+<div class="row">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+  <img src="https://img.favpng.com/10/21/4/computer-icons-php-portable-network-graphics-logo-ico-png-favpng-TH6XUTkQGPTk0FTxuCQV2k2q7.jpg" alt="php" width="20" height="20"/>
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnnR0G3lcw3dQsv_qzl7K_8OCEKRF0CESm8A&usqp=CAU" alt="asp" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>
+  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="20" height="20">
+</div>
