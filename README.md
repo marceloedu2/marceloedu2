@@ -12,3 +12,19 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 
 ![Marcelo Araujo stats](https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h6>🚀 Technologies and Tools ⚙</h6>
+<div class="row">
+  <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+  <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+  <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+  <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/240/000000/typescript.png" alt="typescript" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/240/000000/nodejs.png" alt="nodejs" width="20" height="20"/>
+  <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+  <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="20" height="20"/>
+  <img src="https://img.icons8.com/ios-glyphs/240/000000/github.png" alt="github" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/240/000000/git.png" alt="git" width="20" height="20"/>
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="20" height="20">
+</div>
