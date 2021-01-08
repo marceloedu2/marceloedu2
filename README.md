@@ -11,5 +11,4 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 ### Stats
 
 ![Marcelo Araujo stats](https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
