@@ -17,6 +17,13 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 ![Marcelo Araujo stats](https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github-readme-stats.marceloedu2.vercel.app/api?username=marceloedu2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula">
+<img align="center" alt="Marcelo Araujo Github Stats" src="https://github-readme-stats.marceloedu2.vercel.app/api?username=marceloedu2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+<a href="https://github-readme-stats.marceloedu2.vercel.app/api/top-langs/?username=marceloedu2&layout=compact&theme=dracula">
+  <img align="center" src="https://github-readme-stats.marceloedu2.vercel.app/api/top-langs/?username=marceloedu2&layout=compact&theme=dracula" />
+</a>
+
+
 ---
 
 <h6>🚀 Technologies and Tools ⚙</h6>
