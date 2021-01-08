@@ -34,3 +34,7 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
   <img src="https://img.icons8.com/color/240/000000/git.png" alt="git" width="20" height="20"/>
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="20" height="20">
 </div>
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
+</p>
