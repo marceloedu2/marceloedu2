@@ -23,7 +23,6 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
   </p>
 </samp>
 
-
 ---
 
 ### Stats
