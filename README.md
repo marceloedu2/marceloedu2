@@ -36,3 +36,10 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=marceloedu2.marceloedu2" alt="Visitors">                     
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
+</p>
+  
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
