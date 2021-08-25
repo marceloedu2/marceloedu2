@@ -1,10 +1,5 @@
 # ✋ Hi, I'm Marcelo Araujo! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marcelo-eduardo-ara%C3%BAjo-3b361b179/)
-
-### About me
-I am a technology enthusiast, I always try to stay on top of news in the area, especially when it comes to programming. Programming is something that makes me very excited, because I see that creating a solution for something through lines of code is like building a house and seeing the result with each brick placed. I like to feel part of something that can help someone solve their problems more quickly and efficiently, and I dedicate myself to making this possible in the best way.
-
 <samp>
   </br>
   </br>
@@ -20,6 +15,10 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
     </a>
   </p>
 </samp>
+
+### About me
+I am a technology enthusiast, I always try to stay on top of news in the area, especially when it comes to programming. Programming is something that makes me very excited, because I see that creating a solution for something through lines of code is like building a house and seeing the result with each brick placed. I like to feel part of something that can help someone solve their problems more quickly and efficiently, and I dedicate myself to making this possible in the best way.
+
 
 <img align="center" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
