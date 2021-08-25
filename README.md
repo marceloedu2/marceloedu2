@@ -12,7 +12,6 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 </div>
 
 <br/>
-<br/>
 <p align="center"> 
 <a href="https://www.instagram.com/marceloedu123" target="_blank" >
 <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?logo=Instagram&logoColor=white">
@@ -37,4 +36,4 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
   <img src="https://profile-counter.glitch.me/marceloedu2/count.svg" />
 </div>
   
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
