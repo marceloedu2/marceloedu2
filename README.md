@@ -11,6 +11,8 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <img align="center" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 </div>
 
+<br/>
+<br/>
 <p align="center"> 
 <a href="https://www.instagram.com/marceloedu123" target="_blank" >
 <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?logo=Instagram&logoColor=white">
