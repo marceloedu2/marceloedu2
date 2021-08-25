@@ -11,7 +11,7 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <img align="center" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 </div>
 
-<div align="center"> 
+<p align="center"> 
 <a href="https://www.instagram.com/marceloedu123" target="_blank" >
 <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?logo=Instagram&logoColor=white">
 </a>
@@ -21,12 +21,14 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <a href="mailto:marcelo.edu2@gmail.com" target="_blank" >
 <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white">
 </a>
-</div>
+</p>
 
 ---
 
+<div align="center"> 
 ![Marcelo Araujo stats](https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&langs_count=8&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
