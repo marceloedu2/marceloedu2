@@ -36,4 +36,4 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
   <img src="https://profile-counter.glitch.me/marceloedu2/count.svg" />
 </div>
   
-![snake svg](https://github.com/marceloedu2/marceloedu2/blob/main/svgs/github-user-contribution.svg)
+![snake svg](https://raw.githubusercontent.com/marceloedu2/snk/output/github-contribution-grid-snake.svg)
