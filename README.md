@@ -44,7 +44,7 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
@@ -55,8 +55,8 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 ---
 
 <div align="center">
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+  <h3 align="center">Languages and Tools:</h3>
+  <p align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
