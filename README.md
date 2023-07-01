@@ -6,9 +6,7 @@
   </a>
 </h1>
 
-### About me
-
-I am a technology enthusiast, I always try to stay on top of news in the area, especially when it comes to programming. Programming is something that makes me very excited, because I see that creating a solution for something through lines of code is like building a house and seeing the result with each brick placed. I like to feel part of something that can help someone solve their problems more quickly and efficiently, and I dedicate myself to making this possible in the best way.
+<h3 align="center">About me</h3>
 
 <div align="center">
   <img
@@ -16,6 +14,11 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
     src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif"
   />
 </div>
+
+<div align="center" >
+    I am a technology enthusiast, I always try to stay on top of news in the area, especially when it comes to programming. Programming is something that     makes me very excited, because I see that creating a solution for something through lines of code is like building a house and seeing the result with     each brick placed. I like to feel part of something that can help someone solve their problems more quickly and efficiently, and I dedicate myself to     making this possible in the best way.
+</div>
+
 
 <br />
 <p align="center">
@@ -44,19 +47,8 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
-      alt="marceloedu2"
-  /></a>
-</p>
-
----
-
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
-  <p align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -357,17 +349,39 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
         height="40"
       />
     </a>
-  </p>
 </div>
 
 ---
 
-![Marcelo Araujo stats](https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&langs_count=8&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h3 align="center">Trophies</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
+      alt="marceloedu2"
+  /></a>
+</div>
 
----
+
+
 
 <div align="center">
+<h3 align="center">Github User Stats and Used Language Stats</h3>
+<img
+      src="https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
+      alt="marceloedu2"
+  />
+<img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&langs_count=8&layout=compact&theme=dracula&hide_border=true"
+      alt="marceloedu2"
+  />
+</div>
+
+
+
+
+<div align="center">
+<h3 align="center">Streak Stats</h3>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
