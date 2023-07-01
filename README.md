@@ -47,7 +47,7 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=marceloedu2&theme=dracula"
+      src="https://github-profile-trophy.vercel.app/?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
       alt="marceloedu2"
   /></a>
 </p>
@@ -370,7 +370,7 @@ I am a technology enthusiast, I always try to stay on top of news in the area, e
 <div align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&theme=dracula"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
     alt="marceloedu2"
   />
 </div>
