@@ -355,7 +355,7 @@
   <h3 align="center">Streak Stats</h3>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&theme=dracula&hide_border=true"
     alt="marceloedu2"
   />
 </div>
@@ -376,7 +376,7 @@
   <h3 align="center">Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true"
+      src="https://github-profile-trophy.vercel.app/?username=marceloedu2&theme=dracula&hide_border=true"
       alt="marceloedu2"
   /></a>
 </div>
