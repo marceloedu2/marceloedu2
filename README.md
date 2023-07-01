@@ -372,15 +372,6 @@
   />
 </div>
 
-<div align="center">
-  <h3 align="center">Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=marceloedu2&theme=dracula&hide_border=true"
-      alt="marceloedu2"
-  /></a>
-</div>
-
 ---
 
 <div align="center">
