@@ -71,10 +71,3 @@
     alt="marceloedu2"
   />
 </div>
-
----
-
-<div align="center">
-  Visitor count<br />
-  <img src="https://profile-counter.glitch.me/marceloedu2/count.svg" />
-</div>
