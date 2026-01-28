@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
 <div align="center">
   <img
@@ -22,19 +22,20 @@
 
 <div align="center">
   <p>
-    Sou um entusiasta apaixonado por tecnologia, sempre atualizado com as últimas
-    novidades e avanços na área, especialmente em programação. A arte da programação
-    me enche de empolgação, pois me permite criar soluções através de linhas de código,
-    como construir uma casa e testemunhar os resultados com cada tijolo meticulosamente
-    colocado. Poder contribuir para resolver problemas de forma rápida e eficaz me dá
-    uma sensação de realização. Estou totalmente dedicado a aprimorar minhas habilidades
-    e garantir os melhores resultados possíveis para aqueles que ajudo.
+    I am a passionate technology enthusiast, constantly staying updated with the
+    latest news and advancements in the field, particularly in programming. The
+    art of programming fills me with excitement, as it allows me to create
+    solutions through lines of code, akin to constructing a house and witnessing
+    the results with each meticulously placed brick. Being able to contribute to
+    solving problems swiftly and effectively gives me a sense of fulfillment. I am
+    wholeheartedly dedicated to honing my skills and ensuring the best possible
+    outcomes for those I assist.
   </p>
 </div>
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcelo-eduardo-ara%C3%BAjo-3b361b179/" target="_blank">
@@ -49,17 +50,11 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-  <a href="https://github.com/marceloedu2" target="_blank">
-    <img
-      alt="GitHub"
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
 </p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
   <img
@@ -102,12 +97,12 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
-  <h3>🔥 Sequência de Contribuições</h3>
+  <h3>🔥 Contribution Streak</h3>
   <img
-    src="https://streak-stats.demolab.com/?user=marceloedu2&theme=dracula&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="marceloedu2"
   />
 </div>
@@ -115,27 +110,65 @@
 <br />
 
 <div align="center">
-  <h3>📈 Estatísticas e Linguagens Mais Usadas</h3>
+  <h3>📈 Contribution Graph</h3>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=marceloedu2&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marceloedu2&theme=dracula&hide_border=true&area=true"
     alt="marceloedu2"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloedu2&langs_count=8&layout=compact&theme=dracula&hide_border=true"
-    alt="marceloedu2"
-    height="180"
   />
 </div>
 
-<br />
+---
+
+## 💡 Currently Learning
 
 <div align="center">
-  <h3>🏆 Troféus do GitHub</h3>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=marceloedu2&theme=dracula&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15"
-    alt="marceloedu2"
-  />
+  <p>
+    Always exploring new technologies and improving my skills. Currently focused on:
+  </p>
+  <p>
+    <img
+      src="https://img.shields.io/badge/-Microservices-FF6B6B?style=flat-square&logo=kubernetes&logoColor=white"
+      alt="Microservices"
+    />
+    <img
+      src="https://img.shields.io/badge/-Cloud%20Architecture-4ECDC4?style=flat-square&logo=amazon-aws&logoColor=white"
+      alt="Cloud Architecture"
+    />
+    <img
+      src="https://img.shields.io/badge/-System%20Design-95E1D3?style=flat-square&logo=architecture&logoColor=white"
+      alt="System Design"
+    />
+  </p>
+</div>
+
+---
+
+## 🎯 Interests & Hobbies
+
+<div align="center">
+  <p>
+    When I'm not coding, I enjoy:
+  </p>
+  <p>
+    📚 Reading tech blogs and documentation<br />
+    🎮 Playing video games<br />
+    ☕ Exploring new coffee shops<br />
+    🚀 Contributing to open source projects<br />
+    🎓 Learning new programming languages and frameworks
+  </p>
+</div>
+
+---
+
+## 📝 Fun Facts
+
+<div align="center">
+  <p>
+    ⚡ I love solving complex problems and turning them into elegant solutions<br />
+    🎨 I believe clean code is an art form<br />
+    🌱 I'm always growing and learning something new<br />
+    💬 Ask me about backend development, APIs, or system architecture
+  </p>
 </div>
 
 ---
