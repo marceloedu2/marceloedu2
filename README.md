@@ -100,6 +100,16 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <h3>🔥 Contribution Streak</h3>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="marceloedu2"
+  />
+</div>
+
+<br />
+
+<div align="center">
   <h3>📈 Contribution Graph</h3>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=marceloedu2&theme=dracula&hide_border=true&area=true"
