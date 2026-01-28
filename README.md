@@ -99,9 +99,13 @@
 
 ## 📊 GitHub Statistics
 
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<div align="center">
+  <h3>🔥 Contribution Streak</h3>
+  <img
+    src="https://streak-stats.demolab.com/?user=marceloedu2&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="marceloedu2"
+  />
+</div>
 
 <br />
 
