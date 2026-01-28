@@ -107,7 +107,7 @@
 <div align="center">
   <h3>🔥 Sequência de Contribuições</h3>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=marceloedu2&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=marceloedu2&theme=dracula&hide_border=true"
     alt="marceloedu2"
   />
 </div>
@@ -133,7 +133,7 @@
 <div align="center">
   <h3>🏆 Troféus do GitHub</h3>
   <img
-    src="https://github-profile-trophy.vercel.app/?username=marceloedu2&theme=dracula&no-frame=true&no-bg=true&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=marceloedu2&theme=dracula&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15"
     alt="marceloedu2"
   />
 </div>
